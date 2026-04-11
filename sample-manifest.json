@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5137ba1d-80a4-4559-87d7-06cd92a70b21",
+  "id_short": 240533,
+  "published_at": "2026-04-11T07:13:06Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-california-us-sample-240533",
+  "sample_asset_name": "beamstation_240533_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/240533/beamstation_240533_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "bcde758e1b840594adb8080f27d1f65797a301710e827deee9fd73335ca21c95",
+  "sample_size_bytes": 30175,
+  "total_records": 43
+}
